@@ -6,9 +6,7 @@
   <ShowPinned>True</ShowPinned>
   <ShowRecents>True</ShowRecents>
   <SiteMap IntroducedVersion="7.0.0.0">
-    <Area Id="New_Area" ResourceId="SitemapDesigner.NewArea" DescriptionResourceId="SitemapDesigner.NewArea" ShowGroups="true" IntroducedVersion="7.0.0.0">
 
-    </Area>
   </SiteMap>
   <LocalizedNames>
     <LocalizedName description="Time Off Requests" languagecode="1033" />
