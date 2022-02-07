@@ -27,7 +27,6 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: https://org29b88d70.crm.dynamics.com/
-  #USERNAME: <USERNAME>
   CLIENT_ID: ${{ secrets.PowerPlatformSPN }}
   TENANT_ID: 'ddfe1286-8863-4eee-88bb-92c135b7afe0'
 
