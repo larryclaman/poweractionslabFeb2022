@@ -5,9 +5,7 @@
   <ShowHome>True</ShowHome>
   <ShowPinned>True</ShowPinned>
   <ShowRecents>True</ShowRecents>
-  <SiteMap IntroducedVersion="7.0.0.0">
 
-  </SiteMap>
   <LocalizedNames>
     <LocalizedName description="Time Off Requests" languagecode="1033" />
   </LocalizedNames>
